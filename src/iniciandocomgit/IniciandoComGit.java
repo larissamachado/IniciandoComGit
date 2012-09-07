@@ -15,6 +15,6 @@ public class IniciandoComGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Larissa Machado");
+        System.out.println("Larissa ");
     }
 }
